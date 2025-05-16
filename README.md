@@ -6,9 +6,9 @@ Challenge de ALURA LATAM- Conversor de Divisas
 Esta carpeta contiene el Challenge "Conversor de Monedas" que consiste en una aplicación para el Back-End cuyo propóisto es convertir una moneda a otra por medio de la implementación de APIs para acceder a información vigente del tipo de cambio a través del servidor https://www.exchangerate-api.com y su API de libre acceso.
 
 Las área del conocimiento requeridas para la construcción de esta aplicación son las siguientes:
-- : Programación orientada a objetos.
-- : Consumo de APIs.
-- : Manejo de excepciones.
+-  Programación orientada a objetos.
+-  Consumo de APIs.
+-  Manejo de excepciones.
 
 ## :hammer:Funcionalidades del proyecto
 - `Menú de Inicio`: Es la pantalla principal donde el usuario seleccionará una opción introduciendo un valor entero.
